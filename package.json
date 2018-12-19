@@ -1,0 +1,14 @@
+{
+  "name": "railfetch",
+  "version": "1.0.0",
+  "description": "A simple wrapper around the browser Fetch API, because Fetch is a bitch",
+  "main": "dist/index.js",
+  "repository": "git@github.com:RailRunner166/railfetch.git",
+  "author": "Landon Gravat <railinator4903@gmail.com> (chat.railrunner16.me)",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "tslint": "^5.12.0",
+    "typescript": "^3.2.2"
+  }
+}
